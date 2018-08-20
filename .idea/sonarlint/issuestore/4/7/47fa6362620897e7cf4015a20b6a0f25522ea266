@@ -1,0 +1,294 @@
+
+fjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(Ç¿½ú
+cjavascript:S2814"DRename "i" as this name is already used in declaration at line 4414.(Ğ¬Ë¥øÿÿÿÿ
+^javascript:S2814"DRename "i" as this name is already used in declaration at line 9016.(•ı’Õ
+fjavascript:S2814"GRename "len" as this name is already used in declaration at line 15972.(Ô´È…ùÿÿÿÿ
+Xjavascript:S1854">Remove this useless assignment to local variable "defaultText"(¡°Ÿ¤
+djavascript:S2814"ERename "i" as this name is already used in declaration at line 34717.(ôêµéøÿÿÿÿ
+ejavascript:S1764"KCorrect one of the identical sub-expressions on both sides of operator "||"(çÑ™À
+_javascript:S2814"ERename "i" as this name is already used in declaration at line 50694.(Ğç°Œ
+fjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(Ç¿½ú
+`javascript:S2814"GRename "opts" as this name is already used in declaration at line 2258.(ìÖ´y
+fjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(Ûµ¤º
+_javascript:S930"F"clone" declared at line 2838 expects 1 argument, but 2 were provided.(ö¼€ü
+fjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(Ç¿½ú
+fjavascript:S2814"GRename "key" as this name is already used in declaration at line 54094.(­Ìú¹üÿÿÿÿ
+^javascript:S2814"DRename "i" as this name is already used in declaration at line 9056.(À©Üî
+^javascript:S2814"DRename "i" as this name is already used in declaration at line 9092.(À©Üî
+@javascript:S878""Remove use of this comma operator.(ÏÁ¾şûÿÿÿÿ
+@javascript:S878""Remove use of this comma operator.(Ç¶Äıøÿÿÿÿ
+:javascript:S878""Remove use of this comma operator.(¾˜‚*
+fjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(Ç¿½ú
+fjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(Ç¿½ú
+\javascript:S2259"BTypeError can be thrown as "grid" might be null or undefined here.(Ú„³·
+ajavascript:S2814"GRename "len" as this name is already used in declaration at line 11502.(İæÓÊ
+_javascript:S2814"ERename "i" as this name is already used in declaration at line 51676.(ı—Øû
+djavascript:S2814"ERename "i" as this name is already used in declaration at line 21703.(Æ”šüÿÿÿÿ
+djavascript:S2814"JRename "center" as this name is already used in declaration at line 33722.(«×§İ
+gjavascript:S2589"MRefactor this code so that this expression does not always evaluate to false.(—Àß§
+fjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(Ç¿½ú
+_javascript:S2814"ERename "i" as this name is already used in declaration at line 22049.(³ª²Ü
+@javascript:S878""Remove use of this comma operator.(Ì„‚©øÿÿÿÿ
+bjavascript:S2814"HRename "value" as this name is already used in declaration at line 9299.(ìµÎ±
+bjavascript:S1854"CRemove this useless assignment to local variable "tmpStorageLength"(ÕÕÜûÿÿÿÿ
+fjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(œãº
+gjavascript:S2814"MRename "batchItem" as this name is already used in declaration at line 63388.(ôóåÁ
+djavascript:S2259"JTypeError can be thrown as "currentLayer" might be null or undefined here.(ü‚Ì
+_javascript:S2814"ERename "i" as this name is already used in declaration at line 17627.(«ÑôÓ
+Njavascript:S1656"/Remove or correct this useless self-assignment.(€ ö”ÿÿÿÿÿ
+fjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(Ç¿½ú
+Ojavascript:S1854"5Remove this useless assignment to local variable "x1"(œŞ„Æ
+`javascript:S2259"FTypeError can be thrown as "coordSys" might be null or undefined here.(Éê¹
+ajavascript:S2814"GRename "tmp" as this name is already used in declaration at line 14514.(öğÖ©
+djavascript:S2814"ERename "l" as this name is already used in declaration at line 39959.(ı†Íùÿÿÿÿ
+ijavascript:S2814"ORename "regionModel" as this name is already used in declaration at line 33197.(Ñ´Ñ‡
+Pjavascript:S1854"6Remove this useless assignment to local variable "psi"(ûÔéó
+_javascript:S2814"ERename "i" as this name is already used in declaration at line 46876.(ìŞòÉ
+wjavascript:S3923"]This conditional operation returns the same value whether the condition is "true" or "false".(Ó»©©
+bjavascript:S2814"HRename "dims" as this name is already used in declaration at line 59833.(­˜¶Ü
+fjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(Ç¿½ú
+hjavascript:S2814"IRename "alpha" as this name is already used in declaration at line 47500.(üÈûğúÿÿÿÿ
+mjavascript:S2814"NRename "colorIndex" as this name is already used in declaration at line 30929.(ë–æ¤úÿÿÿÿ
+ijavascript:S2814"JRename "result" as this name is already used in declaration at line 62776.(©©â¼ùÿÿÿÿ
+cjavascript:S2814"IRename "unitX" as this name is already used in declaration at line 40546.(­Ÿ‹À
+ejavascript:S2814"FRename "sx" as this name is already used in declaration at line 15275.(È¤èşÿÿÿÿ
+djavascript:S2814"ERename "i" as this name is already used in declaration at line 50797.( »‹üÿÿÿÿ
+Njavascript:S1751"4Remove this "break" statement or make it conditional(›ûä·
+@javascript:S878""Remove use of this comma operator.(¸×œ‰ıÿÿÿÿ
+ejavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(ÙŸµ;
+_javascript:S2814"ERename "i" as this name is already used in declaration at line 36988.(³…’
+_javascript:S2814"ERename "i" as this name is already used in declaration at line 19003.(¹­Ü
+fjavascript:S2814"LRename "pathData" as this name is already used in declaration at line 11503.(ÌÎ‘é
+Ijavascript:S1472"*Make those call arguments start on line 51(À˜½¤øÿÿÿÿ
+fjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(Ç¿½ú
+Wjavascript:S1854"8Remove this useless assignment to local variable "count"(Ã¤¢èøÿÿÿÿ
+hjavascript:S3523"OReview this "Function" call and make sure its arguments are properly validated.(„ñ¾
+Zjavascript:UnusedVariable"2Remove the declaration of the unused 'm' variable.(š•Âıÿÿÿÿ
+fjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(Ç¿½ú
+_javascript:S2814"ERename "i" as this name is already used in declaration at line 18519.(ââ’Ğ
+kjavascript:S2814"LRename "coordSys" as this name is already used in declaration at line 39879.(‚µ¤óûÿÿÿÿ
+hjavascript:S2814"NRename "colorIndex" as this name is already used in declaration at line 30929.(Ãéíè
+ajavascript:S2814"GRename "dir" as this name is already used in declaration at line 14526.(“êß°
+;javascript:S878""Remove use of this comma operator.(¿æú
+djavascript:S2814"JRename "center" as this name is already used in declaration at line 33722.(«×§İ
+ˆ#javascript:NonEmptyCaseWithoutBreak"VEnd this switch case with an unconditional break, continue, return or throw statement.(‰ÆÄÎşÿÿÿÿ
+Ujavascript:S1854";Remove this useless assignment to local variable "Gradient"(€Ç‹
+fjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(Ç¿½ú
+fjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(Ç¿½ú
+:javascript:S878""Remove use of this comma operator.(¾˜‚*
+gjavascript:S2589"MRefactor this code so that this expression does not always evaluate to false.(—Àß§
+fjavascript:S2814"GRename "len" as this name is already used in declaration at line 34717.(ôêµéøÿÿÿÿ
+\javascript:UnusedVariable"9Remove the declaration of the unused 'Gradient' variable.(€Ç‹
+Rjavascript:S1854"8Remove this useless assignment to local variable "index"(®é€ì
+]javascript:S2814"DRename "i" as this name is already used in declaration at line 9189.(¶ˆ­r
+fjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(àÿ±®
+fjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(Ç¿½ú
+gjavascript:S2589"MRefactor this code so that this expression does not always evaluate to false.(—Àß§
+ajavascript:S2814"GRename "pos" as this name is already used in declaration at line 48553.(Ë²ÏŒ
+cjavascript:S2814"IRename "value" as this name is already used in declaration at line 22572.(öâ¥œ
+;javascript:S878""Remove use of this comma operator.(­ØÅÎ
+:javascript:S878""Remove use of this comma operator.(ş”‚.
+djavascript:S2814"ERename "i" as this name is already used in declaration at line 20722.(‹ÙşÙúÿÿÿÿ
+Xjavascript:S1854">Remove this useless assignment to local variable "stackLength"(ËüâÔ
+cjavascript:S2814"DRename "i" as this name is already used in declaration at line 1110.(ÄÙ†«ÿÿÿÿÿ
+fjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(Ç¿½ú
+fjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(Ç¿½ú
+ajavascript:S2814"GRename "len" as this name is already used in declaration at line 38279.(ÊîÈÖ
+@javascript:S878""Remove use of this comma operator.(ëäšÕıÿÿÿÿ
+djavascript:S2814"ERename "i" as this name is already used in declaration at line 38236.(ª·ˆ£üÿÿÿÿ
+fjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(Ç¿½ú
+_javascript:S2814"ERename "x" as this name is already used in declaration at line 60207.(Ç±•
+kjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(°ˆ…÷ùÿÿÿÿ
+fjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(Ç¿½ú
+djavascript:S2814"ERename "i" as this name is already used in declaration at line 22818.(î¥€³øÿÿÿÿ
+hjavascript:S2814"IRename "nodeY" as this name is already used in declaration at line 44522.(õ‚ş½ÿÿÿÿÿ
+fjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(Ç¿½ú
+_javascript:S2814"ERename "i" as this name is already used in declaration at line 29923.(À©Üî
+_javascript:S2814"ERename "p" as this name is already used in declaration at line 15059.(Î…Ìˆ
+`javascript:S2814"FRename "sy" as this name is already used in declaration at line 15276.(ÒœšÙ
+^javascript:S2814"ERename "n" as this name is already used in declaration at line 40099.(«‚ÉQ
+fjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(Ç¿½ú
+fjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(Ç¿½ú
+djavascript:S2814"ERename "i" as this name is already used in declaration at line 50652.( »‹üÿÿÿÿ
+X'javascript:FunctionDefinitionInsideLoop"'Define this function outside of a loop.(•Şˆ¨
+Œjavascript:S2583"mChange this condition so that it does not always evaluate to "false"; some subsequent code is never executed.(¢¢şøúÿÿÿÿ
+djavascript:S2814"ERename "t" as this name is already used in declaration at line 39470.(äöö¨üÿÿÿÿ
+ajavascript:S2814"GRename "idx" as this name is already used in declaration at line 24241.(Ò‹ÃÌ
+djavascript:S2814"ERename "i" as this name is already used in declaration at line 40084.(ÎÆïêûÿÿÿÿ
+fjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(Ç¿½ú
+fjavascript:S2814"GRename "idx" as this name is already used in declaration at line 21713.(Í»ª‚üÿÿÿÿ
+@javascript:S878""Remove use of this comma operator.(í÷×œıÿÿÿÿ
+;javascript:S878""Remove use of this comma operator.(ĞÙÃğ
+Njavascript:S1854"4Remove this useless assignment to local variable "j"(Ó®½
+Njavascript:S1656"/Remove or correct this useless self-assignment.(îéİ³ÿÿÿÿÿ
+njavascript:S930"P"calculateColor" declared at line 36354 expects 1 argument, but 2 were provided.(¹¯ğøÿÿÿÿ
+fjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(Ç¿½ú
+fjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(Ç¿½ú
+ijavascript:S2814"JRename "helper" as this name is already used in declaration at line 37060.(ñíÓÛøÿÿÿÿ
+;javascript:S878""Remove use of this comma operator.(æã¦
+fjavascript:S930"H"addEl" declared at line 43819 expects 5 arguments, but 7 were provided.(‹ŞÊûÿÿÿÿ
+[javascript:S2259"ATypeError can be thrown as "dom" might be null or undefined here.(Ã ¤
+ajavascript:S2259"BTypeError can be thrown as "node" might be null or undefined here.(õ‚ş½ÿÿÿÿÿ
+ejavascript:S2814"FRename "d1" as this name is already used in declaration at line 14047.(”ËğŒûÿÿÿÿ
+djavascript:S2814"ERename "i" as this name is already used in declaration at line 39959.(ı†Íùÿÿÿÿ
+fjavascript:S2814"GRename "len" as this name is already used in declaration at line 37229.(ğ«îëşÿÿÿÿ
+ejavascript:S2814"FRename "t1" as this name is already used in declaration at line 13943.(Œ‘Ãøÿÿÿÿ
+ajavascript:S2814"GRename "len" as this name is already used in declaration at line 36988.(³…’
+fjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(Ç¿½ú
+^javascript:S2814"DRename "i" as this name is already used in declaration at line 8986.(À©Üî
+gjavascript:S2814"HRename "name" as this name is already used in declaration at line 59606.(ğÆÊ¾ûÿÿÿÿ
+`javascript:S2814"GRename "api" as this name is already used in declaration at line 53349.(Í‡Úd
+yjavascript:S4165"_Review this useless assignment: "i" already holds the assigned value along all execution paths.(æ‚ëè
+hjavascript:S2814"NRename "symbolSize" as this name is already used in declaration at line 39468.(Ê¶
+fjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(ŸÍË½
+fjavascript:S2814"GRename "len" as this name is already used in declaration at line 22065.(¬Ö‡üÿÿÿÿ
+djavascript:S2814"ERename "i" as this name is already used in declaration at line 40084.(ÎÆïêûÿÿÿÿ
+djavascript:S2814"ERename "i" as this name is already used in declaration at line 37229.(ğ«îëşÿÿÿÿ
+`javascript:S2814"FRename "t1" as this name is already used in declaration at line 13676.(ğù§í
+ejavascript:S2814"FRename "t1" as this name is already used in declaration at line 13676.(ò½ßçşÿÿÿÿ
+fjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(Ç¿½ú
+_javascript:S2814"ERename "d" as this name is already used in declaration at line 40090.(°ó–ä
+fjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(Ç¿½ú
+fjavascript:S2814"LRename "pathData" as this name is already used in declaration at line 11503.(ÌÎ‘é
+fjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(Ç¿½ú
+_javascript:S2814"ERename "y" as this name is already used in declaration at line 60208.(Ÿ©‡¯
+kjavascript:S2814"LRename "interval" as this name is already used in declaration at line 47228.(ÇÒ ÿÿÿÿÿ
+fjavascript:S2814"GRename "len" as this name is already used in declaration at line 38279.(‹Ôà øÿÿÿÿ
+fjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(Ç¿½ú
+;javascript:S878""Remove use of this comma operator.(ŒÄÏ“
+_javascript:S2814"ERename "i" as this name is already used in declaration at line 20722.(²ôõÄ
+^javascript:S2259"?TypeError can be thrown as "p" might be null or undefined here.(ßÜ¼çûÿÿÿÿ
+_javascript:S2814"ERename "k" as this name is already used in declaration at line 10530.(’éïÁ
+ajavascript:S2814"HRename "diff" as this name is already used in declaration at line 39383.(û„¨
+yjavascript:S4165"_Review this useless assignment: "i" already holds the assigned value along all execution paths.(ºÿµ¤
+bjavascript:S1854"CRemove this useless assignment to local variable "tmpStorageLength"(€ôŒÔşÿÿÿÿ
+Tjavascript:S1854":Remove this useless assignment to local variable "factory"(—ã÷ª
+fjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(Ç¿½ú
+fjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(Ç¿½ú
+mjavascript:S2814"NRename "symbolSize" as this name is already used in declaration at line 39468.(›•øËùÿÿÿÿ
+ajavascript:S2814"GRename "idx" as this name is already used in declaration at line 24241.(ˆ‚øÍ
+bjavascript:S2814"IRename "unitY" as this name is already used in declaration at line 40547.(°š’Z
+fjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(Ç¿½ú
+bjavascript:S2814"HRename "unit" as this name is already used in declaration at line 14477.(¿¸õ‚
+`javascript:S2814"FRename "p0" as this name is already used in declaration at line 63671.(„´ó
+djavascript:S2814"ERename "i" as this name is already used in declaration at line 31923.(ÍªğĞúÿÿÿÿ
+hjavascript:S2814"NRename "colorIndex" as this name is already used in declaration at line 30929.(¡Ô™´
+fjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(Ç¿½ú
+fjavascript:S2814"LRename "pathData" as this name is already used in declaration at line 11503.(ÌÎ‘é
+fjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(Ç¿½ú
+djavascript:S2814"ERename "i" as this name is already used in declaration at line 29948.(¾ó½Âúÿÿÿÿ
+`javascript:S2259"FTypeError can be thrown as "coordSys" might be null or undefined here.(Éê¹
+fjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(Ç¿½ú
+@javascript:S878""Remove use of this comma operator.(Ç¶Äıøÿÿÿÿ
+Wjavascript:S1854"=Remove this useless assignment to local variable "controller"(¶¬Ñî
+Ujavascript:S1854"<Remove this useless assignment to local variable "valueAxis"(Æ–œ
+fjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(Ç¿½ú
+Njavascript:S878"5Remove use of all comma operators in this expression.(“³Ğ
+fjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(Ç¿½ú
+djavascript:S2814"ERename "i" as this name is already used in declaration at line 37919.(ª·ˆ£üÿÿÿÿ
+Ojavascript:S1854"5Remove this useless assignment to local variable "y1"(«Ôç›
+kjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(±æ¢Ğúÿÿÿÿ
+fjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(œãº
+jjavascript:S2814"KRename "mapDraw" as this name is already used in declaration at line 32946.(â»ù½şÿÿÿÿ
+djavascript:S2814"ERename "i" as this name is already used in declaration at line 15972.(Ô´È…ùÿÿÿÿ
+gjavascript:S930"O"doMapCategory" declared at line 36792 expects 1 argument, but 2 were provided.(óœœ
+_javascript:S2814"ERename "i" as this name is already used in declaration at line 15826.(ì¤¥×
+fjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(Ç¿½ú
+ljavascript:S2814"MRename "transform" as this name is already used in declaration at line 63670.(ˆÇå½üÿÿÿÿ
+Ojavascript:S1854"5Remove this useless assignment to local variable "_b"(á›şŒ
+gjavascript:S2814"HRename "value" as this name is already used in declaration at line 3750.(˜ı¯‰ùÿÿÿÿ
+ijavascript:S2814"JRename "height" as this name is already used in declaration at line 64780.(à»€âúÿÿÿÿ
+fjavascript:S2814"LRename "interval" as this name is already used in declaration at line 25453.(’ÍÂá
+fjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(Ç¿½ú
+ejavascript:S2814"FRename "x1" as this name is already used in declaration at line 63845.(°Ã½âşÿÿÿÿ
+`javascript:S2814"FRename "x1" as this name is already used in declaration at line 14674.(ÿ£Ç–
+hjavascript:S2814"IRename "point" as this name is already used in declaration at line 48759.(ó¬“Ïùÿÿÿÿ
+fjavascript:S2814"GRename "key" as this name is already used in declaration at line 22058.( ¬–ÿÿÿÿÿÿ
+djavascript:S2814"ERename "i" as this name is already used in declaration at line 38279.(‹Ôà øÿÿÿÿ
+ejavascript:S2814"FRename "x_" as this name is already used in declaration at line 14479.(½À¯øÿÿÿÿ
+@javascript:S878""Remove use of this comma operator.(íˆÃüşÿÿÿÿ
+ajavascript:S2814"GRename "idx" as this name is already used in declaration at line 22059.(˜Öõ–
+`javascript:S2814"FRename "t1" as this name is already used in declaration at line 13676.(ôŒ›‡
+ejavascript:S2814"LRename "viewRect" as this name is already used in declaration at line 31722.(·ıÊ>
+@javascript:S878""Remove use of this comma operator.(ÏÁ¾şûÿÿÿÿ
+djavascript:S2814"ERename "i" as this name is already used in declaration at line 38279.(ôêµéøÿÿÿÿ
+fjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(Ç¿½ú
+jjavascript:S2814"PRename "mainBoundIdx" as this name is already used in declaration at line 61167.(Ú›•Ê
+bjavascript:S2259"CTypeError can be thrown as "value" might be null or undefined here.(ıÇ†¦ÿÿÿÿÿ
+njavascript:S930"P"stepAParallel" declared at line 52078 expects 2 arguments, but 3 were provided.(‰®»ûÿÿÿÿ
+fjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(Ç¿½ú
+jjavascript:S2814"KRename "tangent" as this name is already used in declaration at line 39035.(˜Ì–Ñûÿÿÿÿ
+djavascript:S2814"ERename "i" as this name is already used in declaration at line 15888.(¢ò¨‰şÿÿÿÿ
+njavascript:S930"P"calculateColor" declared at line 36354 expects 1 argument, but 2 were provided.(¹¯ğøÿÿÿÿ
+fjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(Ç¿½ú
+fjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(Ç¿½ú
+;javascript:S878""Remove use of this comma operator.(åè•’
+Wjavascript:UnusedVariable"4Remove the declaration of the unused 'psi' variable.(ûÔéó
+kjavascript:S2814"QRename "labelInterval" as this name is already used in declaration at line 61704.(Ø‚ˆ¤
+fjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(Ç¿½ú
+:javascript:S878""Remove use of this comma operator.(ş”‚.
+djavascript:S2814"ERename "i" as this name is already used in declaration at line 40084.(ÎÆïêûÿÿÿÿ
+Pjavascript:S1854"6Remove this useless assignment to local variable "psi"(ûÔéó
+fjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(Ç¿½ú
+ejavascript:S2814"FRename "y1" as this name is already used in declaration at line 14675.(–úÒœÿÿÿÿÿ
+ajavascript:S2814"GRename "len" as this name is already used in declaration at line 11502.(İæÓÊ
+cjavascript:S2814"DRename "i" as this name is already used in declaration at line 3551.(¦Ş †øÿÿÿÿ
+_javascript:S2814"ERename "i" as this name is already used in declaration at line 50838.(Ğç°Œ
+djavascript:S2814"ERename "i" as this name is already used in declaration at line 47227.(–…˜Ïÿÿÿÿÿ
+kjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(²®Ø‹üÿÿÿÿ
+Vjavascript:S1854"<Remove this useless assignment to local variable "valueAxis"(§ìÏ
+njavascript:S2814"ORename "showControl" as this name is already used in declaration at line 61071.(ú½Ê«ıÿÿÿÿ
+cjavascript:S2814"IRename "nextP" as this name is already used in declaration at line 24376.(´æ’á
+fjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(Ç¿½ú
+Wjavascript:UnusedVariable"4Remove the declaration of the unused 'psi' variable.(ûÔéó
+Wjavascript:S1854"8Remove this useless assignment to local variable "value"(Æ×åóÿÿÿÿÿ
+ajavascript:S2814"GRename "len" as this name is already used in declaration at line 11502.(İæÓÊ
+ejavascript:S2814"FRename "n2" as this name is already used in declaration at line 40087.(£Ù™‰øÿÿÿÿ
+fjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(Ç¿½ú
+fjavascript:S2814"LRename "endAngle" as this name is already used in declaration at line 40432.(££ŞÓ
+_javascript:S2814"ERename "i" as this name is already used in declaration at line 24218.(şâ¡ô
+Njavascript:S1751"4Remove this "break" statement or make it conditional(›ûä·
+fjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(Ç¿½ú
+fjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(Ç¿½ú
+_javascript:S2814"ERename "i" as this name is already used in declaration at line 18519.(À©Üî
+bjavascript:S2814"HRename "name" as this name is already used in declaration at line 19004.(˜è©º
+djavascript:S2814"ERename "i" as this name is already used in declaration at line 33927.(ò„•îøÿÿÿÿ
+fjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(®ÿğè
+djavascript:S2814"ERename "i" as this name is already used in declaration at line 21104.(ñ¸ğˆÿÿÿÿÿ
+Xjavascript:S1854"9Remove this useless assignment to local variable "smooth"(…Ó¯åşÿÿÿÿ
+mjavascript:S2814"NRename "dataExtent" as this name is already used in declaration at line 37381.(Åşéøÿÿÿÿ
+fjavascript:S2814"GRename "len" as this name is already used in declaration at line 38279.(ôêµéøÿÿÿÿ
+:javascript:S878""Remove use of this comma operator.(çŞ›w
+hjavascript:S2814"IRename "frame" as this name is already used in declaration at line 46911.(Ì•µÈùÿÿÿÿ
+Hjavascript:EmptyBlock")Either remove or fill this block of code.(™ßÚ³
+`javascript:S2814"FRename "iv" as this name is already used in declaration at line 10191.(’á›
+`javascript:S2814"FRename "el" as this name is already used in declaration at line 48753.(›ğî
+ejavascript:S2814"FRename "t1" as this name is already used in declaration at line 13758.(äæ‚üÿÿÿÿ
+hjavascript:S2814"NRename "symbolSize" as this name is already used in declaration at line 39468.(Ê¶
+_javascript:S2814"ERename "i" as this name is already used in declaration at line 38279.(ÊîÈÖ
+fjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(Ç¿½ú
+ejavascript:S2814"FRename "n1" as this name is already used in declaration at line 40086.(“‡Íüÿÿÿÿ
+hjavascript:S2814"IRename "width" as this name is already used in declaration at line 64780.(±Ş²®øÿÿÿÿ
+djavascript:S2814"ERename "i" as this name is already used in declaration at line 38307.(ª·ˆ£üÿÿÿÿ
+fjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(Ç¿½ú
+jjavascript:S2814"KRename "tangent" as this name is already used in declaration at line 39035.(Áãä®şÿÿÿÿ
+`javascript:S2814"FRename "y1" as this name is already used in declaration at line 63846.(Øİ–Á
+ˆ#javascript:NonEmptyCaseWithoutBreak"VEnd this switch case with an unconditional break, continue, return or throw statement.(úâúÿÿÿÿ
+fjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(Ç¿½ú
+ljavascript:S2814"RRename "viewRootLayout" as this name is already used in declaration at line 37136.(®Âó¡
+_javascript:S2814"ERename "i" as this name is already used in declaration at line 13153.(À©Üî
+fjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(Ç¿½ú
+ljavascript:S2814"MRename "globalDir" as this name is already used in declaration at line 43039.(‡ê‹Éùÿÿÿÿ
+ejavascript:S2814"FRename "t1" as this name is already used in declaration at line 13943.(äæ‚üÿÿÿÿ
+ejavascript:S2814"FRename "t2" as this name is already used in declaration at line 13688.(÷â€³ùÿÿÿÿ
+kjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(²®Ø‹üÿÿÿÿ
+Sjavascript:S1854"4Remove this useless assignment to local variable "m"(š•Âıÿÿÿÿ
+djavascript:S2814"ERename "i" as this name is already used in declaration at line 30927.(øÁŠâüÿÿÿÿ
+hjavascript:S2814"IRename "piece" as this name is already used in declaration at line 58429.(óİ­çÿÿÿÿÿ
+;javascript:S1116"Remove this empty statement.(Åñ­õşÿÿÿÿ
+;javascript:S878""Remove use of this comma operator.(”ôä˜
+fjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(œãº
+[javascript:UnusedVariable"8Remove the declaration of the unused 'factory' variable.(—ã÷ª
+fjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(Ç¿½ú
+Njavascript:S1656"/Remove or correct this useless self-assignment.(É€éîşÿÿÿÿ
+bjavascript:S2259"CTypeError can be thrown as "point" might be null or undefined here.(ø¥Ùİüÿÿÿÿ

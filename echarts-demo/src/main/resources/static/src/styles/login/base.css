@@ -1,0 +1,24 @@
+/** reset **/
+body, h2, p, dl, dt, dd, ul, ol, li, pre, strong, fieldset, button, input, textarea {
+    margin: 0;
+    padding: 0
+}
+body, button, input, select, textarea {
+    font: normal 12px/1.5 microsoft yahei, 'lucida grande', tahoma, verdana, arial, STHeiTi, simsun, sans-serif;
+}
+a {
+    text-decoration: none
+}
+i{
+    font-style: normal;
+}
+*{
+    box-sizing:border-box;
+}
+a:hover {
+    text-decoration: none;
+}
+ul,li {list-style: none}
+img {
+    vertical-align: middle;
+}

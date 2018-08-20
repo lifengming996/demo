@@ -1,0 +1,154 @@
+header.header {
+    width: 100%;
+    height: 72px;
+}
+
+section.main {
+    width: 100%;
+    padding-top: 0;
+    border:1px solid #dedede!important;
+}
+
+section .wlk-top {
+    background: #fff;
+    padding: 20px 10px;
+    /*margin-bottom: 20px;*/
+
+}
+
+.wlk-group .tit{
+    height: 30px;
+    background-color: #f2f3f3;
+    line-height: 30px;
+    padding-left: 20px;
+    margin-bottom: 10px;
+
+}
+section  label {
+    padding-top: 5px;
+    color: #000;
+    font-weight: bold;
+}
+
+@media (max-width: 992px) {
+    section .wlk-top .btn-box {
+        margin-top: 10px;
+    }
+}
+
+section .wlk-bottom {
+    background: #fff;
+    padding: 0 30px;
+}
+
+section .wlk-bottom .query-operation {
+    height: 40px;
+    background: #f6f7f9;
+    padding: 8px 20px;
+}
+
+section .wlk-bottom .qurey-result {
+    padding: 0 1px;
+}
+
+section.main-fullscreen {
+    width: 100%;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 72px;
+    bottom: 0;
+    padding-top: 0;
+}
+
+section.main-fullscreen .container-fluid {
+    height: 100%;
+}
+
+section.main-fullscreen .container-fluid .wlk-outgrail {
+    overflow: hidden;
+    height: 100%;
+    margin-left: -10px;
+    padding-left: 75px;
+}
+
+section.main-fullscreen .container-fluid .wlk-outgrail .wlk-outaside {
+    float: left;
+    width: 192px;
+    height: 100%;
+    margin-left: -100%;
+    position: relative;
+    left: -75px;
+    _left: 0;
+    background: #36485e;
+}
+
+section.main-fullscreen .container-fluid .wlk-outgrail .wlk-outaside.collapsed {
+    width: 64px!important;
+}
+
+/*测试1*/
+section.main-fullscreen .container-fluid .wlk-outgrail .wlk-container {
+    float: left;
+    width: 100%;
+    height: 100%;
+    /*padding-top: 15px;*/
+}
+
+section.main-fullscreen .container-fluid>div.row,
+section.main-fullscreen .container-fluid>div>div {
+    height: 100%;
+}
+
+section.main-wholescreen {
+    position: absolute;
+    left: 10px;
+    right: 10px;
+    bottom: 15px;
+    padding-top: 20px;
+    top: 80px;
+}
+
+section.main-fullscreen .container-fluid .wlk-ingrail {
+    overflow: hidden;
+    height: 100%;
+    margin-left: -10px;
+    padding-left: 288px;
+}
+
+section.main-fullscreen .container-fluid .wlk-ingrail .wlk-inaside {
+    float: left;
+    width: 276px;
+    height: 100%;
+    margin-left: -100%;
+    position: relative;
+    left: -288px;
+    _left: 0;
+}
+section.main-fullscreen .container-fluid .wlk-ingrail .wlk-container {
+    float: left;
+    width: 100%;
+    height: 100%;
+}
+
+
+/*内部侧边栏*/
+section.main-fullscreen .container-fluid .wlk-grail {
+    overflow: hidden;
+    height: 100%;
+    padding-left: 230px;
+}
+section.main-fullscreen .container-fluid .wlk-grail .wlk-aside {
+    float: left;
+    width: 215px;
+    height: 100%;
+    margin-left: -100%;
+    position: relative;
+    left: -230px;
+    _left: 0;
+}
+section.main-fullscreen .container-fluid .wlk-grail .wlk-container {
+    float: left;
+    width: 100%;
+    height: 100%;
+}

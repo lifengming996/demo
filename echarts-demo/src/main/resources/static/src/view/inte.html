@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Title</title>
+
+    <link rel="stylesheet" href="../../libs/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../../libs/layer/mobile/need/layer.css">
+    <link rel="stylesheet" href="../styles/login/inte.css">
+
+</head>
+<body class="innerbody">
+<div class="container-fluid">
+    <div class="accordion" id="accordion2">
+        <div class="accordion-group">
+            <div class="accordion-heading">
+                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne">
+                  zhifubao
+                </a>
+            </div>
+            <div id="collapseOne" class="accordion-body collapse" style="height: 0px; ">
+                <div class="accordion-inner">
+                    <label for="name">aaaa</label><input type="text" class="" placeholder="qingshuru">
+                    <label for="name">aaaa</label><input type="text" class="" placeholder="qingshuru">
+                    <label for="name">aaaa</label><input type="text" class="" placeholder="qingshuru">
+                    <label for="name">aaaa</label><input type="text" class="" placeholder="qingshuru">
+
+                </div>
+            </div>
+        </div>
+        <div class="accordion-group">
+            <div class="accordion-heading">
+                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseTwo">
+                   weixin
+                </a>
+            </div>
+            <div id="collapseTwo" class="accordion-body collapse">
+                <div class="accordion-inner">
+                    <label for="name">aaaa</label><input type="text" class="" placeholder="qingshuru">
+                    <label for="name">aaaa</label><input type="text" class="" placeholder="qingshuru">
+                    <label for="name">aaaa</label><input type="text" class="" placeholder="qingshuru">
+                    <label for="name">aaaa</label><input type="text" class="" placeholder="qingshuru">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                </div>
+            </div>
+        </div>
+        <div class="accordion-group">
+            <div class="accordion-heading">
+                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseThree">
+                    点击我扩展。 再次点击我折叠。 Part  III。
+                </a>
+            </div>
+            <div id="collapseThree" class="accordion-body collapse">
+                <div class="accordion-inner">
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<section class="main ">
+    <div class="container-fluid user-manage">
+        <div class="wlk-bottom">
+            <!--数据操作-->
+            <div class="query-operation">
+                <button id="data-add" class="btn btn-xs btn-add">新增</button>
+                <button id="text" class="btn btn-xs btn-txt">测试</button>
+            </div>
+            <!--查询结果-->
+            <div class="qurey-result table-responsive">
+                <table class="table ">
+                    <thead>
+                    <tr><th>序号</th>
+                        <th>客户号</th>
+                        <th>子账号</th>
+                        <th>账户名称</th>
+                        <th>账户别名</th>
+                        <th>资金类型</th>
+                    </tr>
+                    </thead>
+
+                    <tbody>
+
+                    <tr  data-id="">
+
+                        <td>111</td>
+                        <td>111</td>
+                        <td>111</td>
+                        <td>111</td>
+                        <td>111</td>
+                        <td>111</td>
+                        <td>
+                            <a href="#" class="">修改</a>
+                        </td>
+                    </tr>
+
+                    </tbody>
+                </table>
+
+            </div>
+
+        </div>
+    </div>
+</section>
+<!--弹出层时背景层DIV-->
+<input type=" button" class="btn btn-info" id="details"  value="详情" onclick="ShowDiv('modalTable','fade')"/>
+<div id="fade" class="black_overlay">
+</div>
+<!--黑色背景-->
+<div id="modalTable"  class="modalTable">
+    <div class="modal-title"><span class="text-left">查看详情</span>
+        <span style="font-size: 20px;" class="pull-right" onclick="CloseDiv('modalTable','fade')">×</span>
+    </div>
+    <div class="modal-body">
+        <form id="form-table" class="form-horizontal" action="">
+            <div class="form-group">
+              <div class="group gb">
+                    <input type="button" class="btn btn-info lAdd" id="lAdd" value="增加" onclick="ShowDiv('modal-add','fade')"/>
+                    <input type="button" class="btn btn-info lModify" id="lModify" value="修改" onclick="ShowDiv('modal-update','fade')"/>
+                    <input type="button" class="btn btn-info lDele" id="lDele" value="增加" onclick="ShowDiv('modal-dele','fade')"/>
+                </div>
+                <!--查询结果-->
+                <div class="qurey-result table-responsive">
+                    <table class="table ">
+                        <thead>
+                        <tr>
+                            <th>序号</th>
+                            <th>发放日期</th>
+                            <th>客户号</th>
+                            <th>收单业务类型</th>
+                            <th>支付网关银行代号</th>
+                            <th>分润金额</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        <tr  data-id="">
+                            <td>111</td>
+                            <td>111</td>
+                            <td>111</td>
+                            <td>111</td>
+                            <td>111</td>
+                            <td>111</td>
+                        </tr>
+                        </tbody>
+                    </table>
+
+                </div>
+            </div>
+
+        </form>
+    </div>
+    <div class="modal-footer">
+        <button type="button" class="btn btn-info submit">提交</button>
+        <button type="button" class="btn btn-default cancel" onclick="CloseDiv('modalTable','fade')">取消</button>
+    </div>
+</div>
+<!--新增-->
+<div id="modal-add" class="modal-add" style="display: none;">
+    <div class="modal-title"><span class="text-left">查看详情</span>
+        <span style="font-size: 20px;" class="pull-right" onclick="CloseDiv('modal-add')">×</span>
+    </div>
+    <div class="modal-body">
+        <form id="form-add" class="form-horizontal" action="">
+            <div class="form-group">
+                <label class="col-sm-8  col-sm-4" for="">商户号:</label>
+                <div class="col-sm-18">
+                    <input type="text" name="usrBaseInfoVo.custId" class="form-control" id="custId">
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="col-sm-8  col-sm-4" for="">账号:</label>
+                <div class="col-sm-18">
+                    <input type="text" name="subAcctId" class="form-control" id="subAcctId">
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="col-sm-8  col-sm-4" for="">账户名称:</label>
+                <div class="col-sm-18">
+                    <input type="text" name="acctName" class="form-control" id="acctName">
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="col-sm-8  col-sm-4" for="">保证金额度:</label>
+                <div class="col-sm-18">
+                    <input type="text" name="avlBal" class="form-control" id="avlBal">
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="col-sm-8  col-sm-4" for="">商户号:</label>
+                <div class="col-sm-18">
+                    <input type="text" name="usrBaseInfoVo.custId" class="form-control" id="custId">
+                </div>
+            </div>
+        </form>
+    </div>
+    <div class="modal-footer">
+        <button type="button" class="btn btn-info submit">提交</button>
+        <button type="button" class="btn btn-default cancel" onclick="CloseDiv('modal-add')">取消</button>
+    </div>
+</div>
+<!--修改-->
+<div id="modal-update" class="modal-update" style="display: none;">
+    <div class="modal-title"><span class="text-left">修改信息</span>
+        <span style="font-size: 20px;" class="pull-right" onclick="CloseDiv('modal-update')">×</span>
+    </div>
+    <div class="modal-body">
+        <form id="form-update" class="form-horizontal" action="">
+            <div class="modal-body">
+                    <div class="form-group">
+                        <label class="col-sm-8  col-sm-4" for="">商户号:</label>
+                        <div class="col-sm-18">
+                            <input type="text" readonly="readonly" name="usrBaseInfoVo.custId" class="form-control" id="custId_m">
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="col-sm-8  col-sm-4" for="">账号:</label>
+                        <div class="col-sm-18">
+                            <input type="text" name="subAcctId" readonly="readonly" class="form-control" id="subAcctId_m">
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="col-sm-8  col-sm-4" for="">账户名称:</label>
+                        <div class="col-sm-18">
+                            <input type="text" name="acctName" class="form-control" id="acctName_m">
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="col-sm-8  col-sm-4" for="">保证金额度:</label>
+                        <div class="col-sm-18">
+                            <input type="text" name="avlBal" class="form-control" id="avlBal_m">
+                        </div>
+                    </div>
+            </div>
+        </form>
+    </div>
+    <div class="modal-footer">
+        <button type="button" class="btn btn-info submit">提交</button>
+        <button type="button" class="btn btn-default cancel" onclick="CloseDiv('modal-update')">取消</button>
+    </div>
+</div>
+<!--确认删除-->
+<div id="modal-dele" class="modal-dele" style="display: none;">
+    <div class="modal-title"><span class="text-left">确认信息</span>
+        <span style="font-size: 20px;" class="pull-right" onclick="CloseDiv('modal-dele')">×</span>
+    </div>
+    <div class="modal-body">
+        <form id="form-dele" class="form-horizontal" action="">
+            <div class="modal-body">
+                <div class="form-group">
+                    <span>确认删除该条记录？</span>
+            </div>
+        </form>
+    </div>
+    <div class="modal-footer">
+        <button type="button" class="btn btn-info submit">确定</button>
+        <button type="button" class="btn btn-default cancel" onclick="CloseDiv('modal-dele')">取消</button>
+    </div>
+</div>
+<script src="../../libs/jquery/jquery.min.js"></script>
+<script src="../../libs/bootstrap/js/bootstrap.min.js"></script>
+<script src="../../libs/layer/layer.js"></script>
+<script src="../../src/js/inte.js"></script>
+
+</body>
+</html>
+

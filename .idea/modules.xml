@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/aop-proxy/aop-proxy.iml" filepath="$PROJECT_DIR$/aop-proxy/aop-proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/echarts-demo/echarts-demo.iml" filepath="$PROJECT_DIR$/echarts-demo/echarts-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/new.technology.quickstart.iml" filepath="$PROJECT_DIR$/new.technology.quickstart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-aop/spring-aop.iml" filepath="$PROJECT_DIR$/spring-aop/spring-aop.iml" />
+    </modules>
+  </component>
+</project>

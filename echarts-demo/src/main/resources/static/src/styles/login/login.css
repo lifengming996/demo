@@ -1,0 +1,238 @@
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+
+}
+
+.quickstart-login {
+    width: 100%;
+    height: 100%;
+
+}
+
+.quickstart-login .login {
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    position: absolute;
+    background: url("../../../images/login/loadingbg1920.jpg") no-repeat center;
+
+}
+
+.quickstart-login .login .log-con .logo2 {
+    height: 490px;
+    width: 850px;
+    /* background: url("../assets/images/login/loginbox-bg.png") no-repeat;*/
+    display: block;
+    float: left;
+    position: relative;
+}
+
+.quickstart-login .login .log-con .logo2 img{
+    position: absolute;
+    top:50px;
+    left:-20px;
+
+
+}
+
+.quickstart-login .login .log-con .logo2 .login-text {
+    position: absolute;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 36px;
+    line-height: 1.42857143;
+    color: #fff;
+    margin-left: 300px;
+    padding-top: 30px;
+}
+
+.quickstart-login .log-con {
+    height: 530px;
+    width: 1360px;
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+    /*background: url("../../../images/login/load-box2.png") no-repeat center;*/
+    overflow: hidden;
+}
+
+.quickstart-login .log-con .row {
+    width: 770px;
+    height: 530px;
+    display: block;
+    float: left;
+    padding-left: 10px;
+    padding-right: 10px;
+    background: url(../../../images/login/load-box.png) no-repeat center;
+    position: absolute;
+    left: 670px;
+}
+
+.quickstart-login .log-con .row .con-body {
+    height: 530px;
+    width: 350px;
+    margin: 0 0 0 230px;
+}
+
+.quickstart-login .log-con .row .con-body .log-int input {
+    border: none;
+}
+input:-webkit-autofill{
+    box-shadow: 0 0 0px 1000px white inset !important;
+}
+.quickstart-login .log-con .row .con-body .login-in{
+    margin-top: 64px;
+}
+.quickstart-login .log-con .row .con-body .col-sm-24 span{
+    float: left;
+    margin-top: 18px;
+}
+.quickstart-login .log-con .row .con-body .input1 {
+    float: left;
+    width: 280px;
+    height: 59px;
+    border: none;
+    text-indent: 10px;
+    line-height: 59px;
+    outline: none;
+    margin-bottom: 1px;
+}
+.quickstart-login .log-con .row .con-body .input2 {
+    margin-top: 1px;
+    height: 59px;
+    border: none;
+    text-indent: 10px;
+    line-height: 59px;
+    outline: none;
+ }
+.quickstart-login .log-con .row .con-body .submit {
+    height: 50px;
+    border: none;
+    background: none;
+    color: #eff6ff;
+    line-height: 50px;
+    margin-top: 50px;
+    outline: none;
+    padding: 0;
+    width: 284px;
+    font-size: 16px;
+    text-align: center;
+}
+
+.quickstart-login .log-con .row .con-body .log-int{
+    padding-left: 23px;
+}
+.quickstart-login .log-con .row .con-body .log-int div .bttn {
+    height: 36px;
+    /*width: 100%;*/
+    border: 1px solid #1e689c;
+    text-indent: 10px;
+    background: #237cba;
+    margin-bottom: 10px;
+    color: #fff;
+    line-height: 36px;
+    padding-right: 10px;
+}
+
+.txt-right {
+    text-align: right;
+}
+
+.quickstart-login .log-con .row .con-body .log-int div {
+    display: inline
+}
+
+.quickstart-login .log-con .row .con-body .log-int label {
+    color: #333;
+    font-size: 14px;
+    line-height: 38px;
+}
+
+.quickstart-login .log-con .row .con-body .log-int select {
+    height: 36px;
+    /*  width: 100%;*/
+    border: 1px solid #ddd;
+    text-indent: 10px;
+    background: #fff;
+    margin-bottom: 20px;
+    color: #333;
+    line-height: 36px;
+}
+
+.quickstart-login .log-con .row .con-body .log-int .ck-rmUser {
+    border: 1px solid #dddddd;
+    text-indent: 10px;
+    background: #fff;
+    color: #333;
+    height: 13px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.quickstart-login .log-con .row .con-body .log-int .forget {
+    text-indent: 10px;
+    color: #237cba;
+    height: 13px;
+    padding-left: 10px;
+    padding-right: 10px;
+    cursor: pointer;
+}
+
+.quickstart-login .log-con .row .con-body .log-int .ck-rmUser .logChose {
+    line-height: 13px;
+}
+
+.txt-align {
+    text-align: right;
+}
+
+.quickstart-login .log-con .tit {
+    text-align: center;
+    /*  border-bottom:1px solid #ddd;*/
+    color: #bfbfbf;
+    margin-top: 32px;
+    font-size: 28px;
+}
+
+.quickstart-login .log-con .tit span {
+    margin: auto;
+    font-size: 24px;
+    line-height: 56px;
+    letter-spacing: 4px;
+}
+
+.quickstart-login .log-con.log-btn {
+    margin-top: 6px;
+    text-align: center;
+    padding-bottom: 200px;
+}
+
+
+/*.quickstart-login .log-con .btn{
+    text-align: center;
+    height: 40px;
+    padding: 0 30px;
+    letter-spacing: 5px;
+    cursor: pointer;
+    border-radius: 4px;
+    margin: 0 auto;
+    background:#fad205;
+    border:1px solid #f3cc07;
+}*/
+
+.tab-content .by-con {
+    padding: 40px 20px;
+}
+
+.nav {
+    list-style: none;
+    padding-left: 30px;
+    margin-bottom: 0;
+}
